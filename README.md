@@ -1,0 +1,1 @@
+Make sure to already have a file set, for example "Important things" with the desired images, videos, music, documents, etc. already present, so that the program can organize them into subsections in the main folder.
